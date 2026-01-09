@@ -6,7 +6,7 @@ This repository is a collection of mini console-based projects written in C-lang
 2.Expense-tracker- It's a console-based expense management system which allows user to record their daily expenses.
 
 ## Tech Stack
--**Language:** C
--**Compiler:** GCC
--**Code-editor:** VS Code
+- **Language:** C
+- **Compiler:** GCC
+- **Code-editor:** VS Code
 
